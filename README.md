@@ -1,8 +1,7 @@
  # MERN Full Stack Project
 
-![Project Logo](backend/uploads/1743666406520-Agent App 4.png)
+![Project Logo](https://github.com/kiranmychits2025/multiform-project/blob/main/backend/uploads/project%20image.png)
 
-<img src="https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png" />
 
 ## 📌 Project Overview
 A multi-stage form built using React (Frontend) and Express + MongoDB (Backend) that allows users to add, edit, delete, and search form entries.
@@ -27,32 +26,31 @@ A multi-stage form built using React (Frontend) and Express + MongoDB (Backend) 
 
 ### Home Page
 
-![Home Page](backend/uploads/1743666406520-Agent App 4.png)
-![Upload Page](backend/uploads/1743666406520-Agent App 4.png)
-![Multistage Pop up](backend/uploads/multistage popup)
-![Search Page](backend/uploads/search by name)
+![Upload Page](https://github.com/kiranmychits2025/multiform-project/blob/main/backend/uploads/upload%20files.png)
+![Multistage Pop up](https://github.com/kiranmychits2025/multiform-project/blob/main/backend/uploads/multistage%20popup.png)
+![Search Page](https://github.com/kiranmychits2025/multiform-project/blob/main/backend/uploads/search%20by%20name.png)
 
 ## 🔧 Installation & Setup
 
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone -b main https://github.com/kiranmychits2025/MultiformBackend.git
-cd MultiformBackend
+git clone -b main https://github.com/kiranmychits2025/multiform-project.git
+cd multiform-project
 ```
 
 ### 2️⃣ Install dependencies
 ```sh
 # Install backend dependencies
 cd backend
-npm install
+npm i
 npm install cors express mongoose multer
 
 ```
 
 # Install frontend dependencies
 cd ../frontend
-npm install
+npm i
 npm install tailwindcss@latest
 ```
 
@@ -76,8 +74,8 @@ The application will be available at `http://localhost:5173/`.
 |--------|-----------------|-----------------------|
 | POST   | /api/form       | Upload a file         |
 | GET    | /api/form       | Fetch processed data  |
-| DELETE |	/api/forms/:id | Delete an entry       |
-| PUT	 | /api/forms/:id  | Update an entry       |
+| DELETE |	/api/forms/:id  | Delete an entry       |
+| PUT	   | /api/forms/:id  | Update an entry       |
 
 
 
