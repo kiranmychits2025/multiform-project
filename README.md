@@ -24,10 +24,14 @@ A multi-stage form built using React (Frontend) and Express + MongoDB (Backend) 
 ## 📸 Screenshots
 
 
-### Home Page
+### Upload image
 
 ![Upload Page](https://github.com/kiranmychits2025/multiform-project/blob/main/backend/uploads/upload%20files.png)
+
+### Pop-up image
 ![Multistage Pop up](https://github.com/kiranmychits2025/multiform-project/blob/main/backend/uploads/multistage%20popup.png)
+
+### Search image
 ![Search Page](https://github.com/kiranmychits2025/multiform-project/blob/main/backend/uploads/search%20by%20name.png)
 
 ## 🔧 Installation & Setup
