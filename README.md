@@ -53,7 +53,8 @@ npm install cors express mongoose multer
 ```
 
 # Install frontend dependencies
-cd ../frontend
+```sh
+cd frontend
 npm i
 npm install tailwindcss@latest
 ```
